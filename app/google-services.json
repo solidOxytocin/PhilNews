@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761200915687",
+    "project_id": "phil-news",
+    "storage_bucket": "phil-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761200915687:android:5296f93a5be6aadf239e42",
+        "android_client_info": {
+          "package_name": "com.example.philnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761200915687-8v7p5l96hcoufpmvt6ud5eim2q5548qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiwqsp5Dx_g8ZDhuZS1oWXWq6pHxYhpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761200915687-8v7p5l96hcoufpmvt6ud5eim2q5548qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
